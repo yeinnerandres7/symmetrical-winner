@@ -1,0 +1,22 @@
+    border-radius: 4px;
+    font-size: 14px;
+    color: #; 
+}
+
+.yaoo-button {
+    background-color: aquamarine; 
+    color: aliceblue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.yaoo-reset-button {
+    background-color: #ccc;
+    color: #333;
+} 
+
+.yaoo-text {
+    color: #ffffff; 
+}
